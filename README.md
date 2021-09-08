@@ -1,0 +1,1 @@
+# bookstack-my-plugin
